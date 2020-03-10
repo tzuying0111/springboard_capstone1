@@ -1,4 +1,4 @@
-# springboard_capstone1
+# Springboard Capstone Project 1
 
 This project is to predict shipping cost based on geography. 
 
